@@ -1,4 +1,4 @@
-# sayt_tahmin
+# sayi_tahmin
 
 A new Flutter project.
 
